@@ -17,7 +17,7 @@ Shadowsocks for Windows
 
 #### Download
 
-Download the latest release from [release page].shadowsocks-windows/shadowsocks-windows-4.0.10.zip
+Download the latest release from [release page].[Dowload](https://github.com/Godlizheng/shadowsocks-windows/blob/master/shadowsocks-windows-4.0.10.zip)
 
 #### Requirements
 
